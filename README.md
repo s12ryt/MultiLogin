@@ -1,7 +1,7 @@
 [English](https://github.com/CaaMoe/MultiLogin/blob/v6/README.en.md)
 <div align="center">
 
-# MultiLogin
+# MultiLogin-oao
 
 _✨ 正版与多种外置登录共存 ✨_
 
